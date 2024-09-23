@@ -1,5 +1,5 @@
 # Why-learn-Programming
-DAY 1/100
+# # DAY 1/100
 
 From :Othneildrew
 https://www.linkedin.com/in/othneildrew
