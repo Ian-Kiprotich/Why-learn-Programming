@@ -20,3 +20,17 @@ Here are a few reasons why it is good to learn programming:
 **Lastly**, you'll usually become more productive the more you write code. There is a special approach to programming. I often find myself using the same methods to solve problems and test hypothesis in my personal life. For example, I've used this technique to pay off debts, pass college courses, and even speak effectively. This is because the underlying principle of programming is always two things: beginning with a goal in mind and transitioning problems into solutions by breaking down the issue into more manageable tasks.
 
 So should you learn to program/code? Definitely!
+# DAY 2/100
+Computer programming is a versatile skill with various uses across industries and professions.
+Because we rely so much on computers for daily tasks, those who know how to program have many job opportunities. 
+
+The following are a few items you can do with a background in programming:
+
+Programmers who know languages such as JavaScript, CSS, or HTML can design interactive websites for clients.
+Individuals with advanced programming skills are needed to create computer games, a popular form of entertainment for many. 
+Mobile apps are more popular than ever as cell phones become more widely used for everyday tasks like banking and navigating.
+Those who know how to program can create mobile apps to simplify these tasks.
+Repetitive work tasks can take many hours of tedious work to complete. However, with the help of automation, they can be instructed to work independently to complete said tasks. Programming skills make it possible to automate tasks like posting on social media, controlling the thermostat at home, or sending emails.
+Programming with R or Python allows users to incorporate advanced statistical analysis into analytical or research tasks. 
+With programming, it is possible to build or maintain large databases. Programmers use languages such as SQL or PHP to use and maintain extensive databases.
+Those who work in the field of data science rely on programming to perform tasks such as developing models that can make predictions based on data insights.
