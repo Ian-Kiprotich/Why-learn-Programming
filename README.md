@@ -39,6 +39,7 @@ Those who work in the field of data science rely on programming to perform tasks
 **17 reasons why you should learn programming**
 
 *Here are 17 reasons that programming is a valuable skill:*
+From : https://www.indeed.com/career-advice
 
 1. Grow in your current job
 Programming knowledge doesn't just benefit those who work in computer science or related fields. For example, people who work in marketing, design, sales and customer relations for technology products can use programming training to enhance their skill sets. Marketing requires data collection and analysis of customer demographics and sales trends to guide advertising strategies, and designers with programming skills can create digital advertisements. People who work in customer-facing positions can use their programming knowledge to assist with queries about technical issues.
