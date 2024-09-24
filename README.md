@@ -34,3 +34,69 @@ Repetitive work tasks can take many hours of tedious work to complete. However, 
 Programming with R or Python allows users to incorporate advanced statistical analysis into analytical or research tasks. 
 With programming, it is possible to build or maintain large databases. Programmers use languages such as SQL or PHP to use and maintain extensive databases.
 Those who work in the field of data science rely on programming to perform tasks such as developing models that can make predictions based on data insights.
+# DAY 3/100
+
+**17 reasons why you should learn programming**
+
+*Here are 17 reasons that programming is a valuable skill:*
+
+1. Grow in your current job
+Programming knowledge doesn't just benefit those who work in computer science or related fields. For example, people who work in marketing, design, sales and customer relations for technology products can use programming training to enhance their skill sets. Marketing requires data collection and analysis of customer demographics and sales trends to guide advertising strategies, and designers with programming skills can create digital advertisements. People who work in customer-facing positions can use their programming knowledge to assist with queries about technical issues.
+
+
+2. Enhance your marketability for a new job
+In some cases, you could be a more appealing candidate if you pursue programming skills. This can give you increased flexibility in the job market. If the job you're applying for doesn't require programming, you can still use your skills to suggest different ways you can bring value to your prospective employer and demonstrate your dedication to self-improvement. If you want to work in technology, your coding skill set may be sufficient to get a job without a bachelor's degree. You can enhance your resume even without a degree by earning certificates or diplomas.
+
+
+3. Improve your performance as an employee or leader
+Programming skills could give you a better idea of what your colleagues do daily. As an employee or manager, this knowledge could allow you to communicate more easily with technical support staff, your website development team or other teams working with computers. With this understanding, you could try to set goals and deadlines within a realistic time frame.
+
+4. Increase your income
+In a non-programming job, your programming skills could increase the range of tasks you can perform for your employer. Doing additional work can increase your value as an employee, which you could use to negotiate for a higher salary. You can also potentially leverage your skills and value to broaden your job title or seek a promotion. By having more credentials than other candidates, you might also be able to pursue a higher starting salary at a new job.
+Related: What Is Computer Programming? (With Common Programming Languages)
+
+5. Work from home
+Because programmers use computers for their work, you might have the opportunity to work from home. Many programming positions allow for remote work. Even if your primary job isn't programming, you may devote some period of your workweek to coding, and you can do that portion of your work from home. Another benefit of working from a laptop or home computer is that you might be able to change job locations without affecting your commute or needing to move to a new house.
+
+6. Improve your efficiency
+With programming skills, you can potentially design applications that allow you to be a more efficient employee. You can write code to automate processes you do regularly, allowing your computer to work in the background while you focus on tasks that require human input. You can also develop apps or websites that customers can access or download. This scalability can potentially enhance your reach compared to physical stores or advertisements, which require customers to be in specific physical locations.
+Related: Networking vs. Programming: Definitions and Differences
+
+7. Start your own business
+Your programming skills can be helpful if you want to start your own business. You can work as a freelance programmer or use your coding skills to support any other business you start. For example, you might be able to build and customize your website or run an online storefront without hiring a website designer. As a freelancer, you can design and run websites for others, create independent applications or sell training courses or one-on-one mentorships to other people who want to learn to code.
+
+8. Work abroad
+Because programming skills are helpful internationally, you can consider living and working abroad as a programmer. You might have an easier time securing work in a foreign company compared to someone without programming knowledge. You could work remotely for a company in your home country or as a freelancer while spending time abroad.
+Related: Is Computer Programming a Good Career? Definition and Tips
+
+9. Learn with your family
+Coding is an increasingly valuable skill for young professionals. By studying programming at home, you can potentially engage your family members, such as your children, in the learning process by inviting them to join you. Learning to program together can allow you to bond with your family members and provide them with training that could benefit them in the future.
+Related: 20 Ways You Can Learn To Code
+
+10. Improve your understanding of the world
+Because computers run much of the modern world, developing programming skills can help you understand how many things work around you. For example, you might be able to keep up with developments in computing and automation and advise friends and family about new technologies that interest them or with which they need assistance. If you have children, you might better understand the applications and online teaching tools they use in school and help them navigate those technologies more efficiently.
+
+11. Develop problem-solving skills
+Coding relies fundamentally on problem-solving. Because there are multiple approaches to writing code for a given situation, learning programming can help you develop your problem-solving skills as you think and work through different solutions. The flexibility inherent in coding can help you practice looking at a problem from many perspectives and generating several possible answers. Creative problem-solving is a skill that can transfer to other aspects of your work and daily life.
+Related: Programming vs. Coding: What's the Difference?
+
+12. Improve your logic and reasoning skills
+Programming requires you to write logical code with a predictable cause-and-effect relationship. You learn how to find places where you have accidentally inserted problems into the code and how to fix them. Identifying these issues requires you to break down a piece of code into smaller parts and consider the code as a whole as well. This type of logical thinking can be helpful in other real-world situations. 
+
+13. Improve your attention to detail
+Something as small as a missing punctuation mark can disrupt a piece of code. Learning to code could help you develop your attention to detail because it requires you to look quickly and methodically for these potential errors. You can also practice avoiding making these mistakes in the first place.
+Related: Scripting vs. Programming: What's the Difference?
+
+14. Build perseverance
+Because code is dependent on accuracy, you may experience incorrect coding. When errors occur, you usually have to think about possible sources and look for and identify them to find ways to correct them. Although this process can take time, it can help teach you not to give up during difficult situations. In this way, you can develop a habit of keeping a positive mindset despite challenges.
+
+15. Grow your creativity
+Programming has the potential to be a very creative field. You can generate code from nothing, starting with only your goals for the final product. Because of the open nature of coding, you can experiment with various codes to produce the most efficient one while still achieving your goals. You can also use your programming skills to enhance your other creative pursuits, for example, by building games.
+Related: Guide to Digital Designing (With 7 Career Ideas)
+
+16. Develop your communication skills
+When you work on coding projects with others, you usually have to communicate with people with varying goals and levels of training. If you work primarily in programming, you may explain the inner workings of your job to others in a way that they can understand with little education in the field.
+If you're a freelancer designing a website for someone else's business, you might help them determine what's realistic for the needs of their business and make sure you clearly understand their needs and goals. Suppose you're working as part of a team responding to comments from the public, such as fixing bugs in an application. In that case, it may be helpful to communicate both with your team and your customers in a clear, professional and solution-focused way.
+
+17. Join a community
+When you learn to program, you can communicate with other people who share your skills. You can join professional organizations and attend conferences or local groups to work on projects together. There are also many online communities for people interested in programming so that you can communicate with professionals from many different backgrounds, skill levels and cultures about your shared interest.
