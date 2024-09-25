@@ -101,3 +101,74 @@ If you're a freelancer designing a website for someone else's business, you migh
 
 17. Join a community
 When you learn to program, you can communicate with other people who share your skills. You can join professional organizations and attend conferences or local groups to work on projects together. There are also many online communities for people interested in programming so that you can communicate with professionals from many different backgrounds, skill levels and cultures about your shared interest.
+# DAY 4/100
+
+**Top 6 reasons you should learn to code in 2021:**
+
+*1. Attractive salaries*
+The good news for computer programmers is that most jobs you’ll be interested in with your new skills pay well. In fact, the median salary of a computer programmer in the U.S. stands at $86,550 per year. Of course, salaries may vary for entry-level positions. 
+
+Because technology doesn’t appear to be slowing down any time soon, learning to program also has the ability to increase your earning potential. Over time, you could get a raise, explore other career opportunities, or start your own side hustle, for instance.
+
+Jumpstart your way to the skills you need for a new career by starting a coding bootcamp.
+
+*2. Have valuable skills on your resume*
+Computer programming is a desirable skill because so much of our world is automated online. As a computer programmer, you will write and test code to create websites and software programs or to keep programs running and functioning well. Your goal is to innovate and continuously improve upon existing processes.
+
+Coding skills can improve how you do business. This is valuable to potential employers. For instance, an e-commerce business owner not only needs a website, but they need someone to collect data about how users interact with a page and modify page elements accordingly, leading to increased sales down the road.
+
+Even if you’re in a non-coding role, knowing how to write code can be of use. For instance, you may have a degree in biology and work with a research lab. Knowing how to code could allow you to participate in application and software development for your company as well as other private and government agencies. Likewise, a psychologist who knows how to code may be able to create a mobile app to help people monitor their depression and anxiety symptoms.
+
+Common skills of effective computer programmers:
+
+Proficiency in at least one programming language
+
+Problem-solving, logic, and critical thinking skills
+
+Attention to detail and focus
+
+Effective communicators
+
+Lifelong learners excited by new technology
+
+*3. Choose from many job offers*
+There are plenty of programming jobs for you to pursue in the world of technology. Perhaps you’d like to spend entire days writing code from home. You can do that! You can also use your programming knowledge to drive business decisions.
+
+Some popular jobs that require coding are software application developers, web developers, and computer systems engineers. See careers for computer programmers to explore more options.
+
+Even in fields where coding isn’t required, achieving fluency in coding can help increase your marketability. Read these tips from recruiters to find out how you can stand out from the crowd, and improve your chances of landing a job.
+
+*4. Work from anywhere*
+Technology jobs – especially within the emerging startup culture – are well known for their flexibility and perks. Depending on the company, this could look like unlimited vacation time, telecommuting from another state or country, or work from home capabilities. 
+
+*5. Flex hours*
+Many programmers work flexible hours since all they need is a laptop and an internet connection. Companies usually have core hours where the team is required to log on for collaboration and meetings. 
+
+Tech companies that implement flex hours are less concerned with where you are, but rather that you get your work done. If you are a self-motivated high achiever who doesn’t do well with micromanaging, you may love this perk.
+
+Since programmers work on computers most of the day, it’s a great job to do via remote work. The benefit of technology is that companies can now hire teams globally. No longer are they hiring just local talent. Rather, they can hire the best of the best from anywhere in the world.
+
+*6. Express your creativity*
+Learning to code not only allows you to give machines instructions, but it also teaches you abstract thinking and problem-solving. In fact, problem-solving skills and creativity are key to becoming a successful computer programmer. Of course, you’ll also need to know some coding languages to apply your knowledge. 
+
+Although coding may appear mathematical, rigid, and even boring to some, it’s anything but. Learning and applying coding allows you to use your creativity to come up with innovative solutions to real-world problems. 
+
+To expand, when programmers are tasked with a problem, it’s up to them to come up with a solution. They start with a blank screen. With the big picture in mind, they use both creative problem-solving and logical thinking. Understanding your preferred coding language and how it relates to the task at hand forces you to delve head first into a problem and solve for the best outcome. Every time you face a new challenge, you get to solve yet another problem.
+
+How do you start learning programming?
+Whether you want to create an app or customize web pages, it’s prudent to to start by learning the basics of one primary programming language. (You can start to learn to code for free here.) The most popular programming languages are C, Java, JavaScript, and PHP.
+
+That being said, there isn’t a “best” programming language to learn. Rather, you should decide what you want to do. Then, learn the corresponding programming language(s). Read more on what programming language you should learn.
+
+Common tasks and corresponding programming languages:
+
+To build a website or webapp, you should learn HTML, CSS, and JavaScript.
+
+CSS will allow you to modify colors, fonts, and arrange page layouts as a professional web designer.
+
+To develop or modify video games and mobile apps, check out JavaScript, Flash, ActionScript, and Citrus Engine.
+
+Python, PHP, and SQL will help you manage servers and databases.
+
+One positive aspect about getting into web development, software engineering, or the like, is that you don’t have to have a college degree. Anyone with the time and interest can learn one or more programming languages. Some people self-teach, but it can take a long time. At Flatiron School, we offer full-time and flexible pace coding bootcamps that will teach you the skills you need to land a new job in tech. 
+
