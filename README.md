@@ -104,6 +104,7 @@ When you learn to program, you can communicate with other people who share your 
 # DAY 4/100
 
 **Top 6 reasons you should learn to code in 2021:**
+From : https://flatironschool.com/
 
 *1. Attractive salaries*
 The good news for computer programmers is that most jobs you’ll be interested in with your new skills pay well. In fact, the median salary of a computer programmer in the U.S. stands at $86,550 per year. Of course, salaries may vary for entry-level positions. 
@@ -172,4 +173,52 @@ Python, PHP, and SQL will help you manage servers and databases.
 
 One positive aspect about getting into web development, software engineering, or the like, is that you don’t have to have a college degree. Anyone with the time and interest can learn one or more programming languages. Some people self-teach, but it can take a long time. At Flatiron School, we offer full-time and flexible pace coding bootcamps that will teach you the skills you need to land a new job in tech. 
 
-****>>>>***
+# DAY 5/100
+
+From: https://www.bestcolleges.com/bootcamps/guides/why-you-should-learn-to-code/
+
+Reasons Why You Should Learn How to Code
+Here's why you should learn to code: Even if you don't work in tech, coding can improve your job prospects and add valuable skills to your resume. It can also change the way you think and open career paths for jobs that use coding.
+
+Your Job Application Will Stand Out
+Hiring managers in tech look for coding skills. Many tech job applications come with a long list of required programming languages. But even outside of the tech sector, listing programming languages on your job application can help you stand out.
+
+That's because knowing how to code demonstrates an ability to learn new technologies and showcase strong problem-solving skills. Even in fields that do not directly require coding, programming indicates transferable skills.
+
+You can also stand out by linking your coding skills to your field. If you work in healthcare, explain how coding allows you to analyze large datasets effectively. If you're in graphic design, link your programming skills to your ability to communicate information visually. Hiring managers will likely take notice of your skillset.
+
+It Can Boost Your Career
+In almost any field, coding skills can boost your career. That's because an ability to code can take your career to the next level. Consider a business analyst who learns how to code. They can open new opportunities, including in business analytics and data science, with coding skills. Or coding can help them stand out at their next annual review.
+
+Learning to code can mean qualifying for promotions or specialized roles. If you're a teacher, learning to code can help you move into specialized teaching roles or become an instructional technology specialist.
+
+Freelancers who learn to code can broaden their job prospects and take on higher-paying work. Get creative about how coding can benefit your career — and think strategically about which programming language to learn.
+
+Find the Right Coding Bootcamp For You
+It Can Enhance Your Skill Set
+Employers look for all kinds of technical and people skills — also known as hard and soft skills. And when evaluating resumes, hiring managers want to see evidence of your skill, not simply a bullet point that says "strong problem-solving skills."
+
+Adding a programming language to your skill set can demonstrate your abilities. It can also complement your current knowledge. If you work in a people-focused career, learning to code can strengthen your reasoning and logic skills. And if you're in an analytical field, coding can sharpen your ability to work with data.
+
+Consider your strengths and areas for growth. A programming language can add a valuable tool to your skill set and demonstrate your commitment to learning.
+
+You May Be Able to Enter the Tech Industry
+The tech sector offers above-average salaries and strong demand. The Bureau of Labor Statistics (BLS) projects the computer and IT field will add 682,800 new jobs between 2021-2031. And these occupations report a median annual salary of $97,430.
+
+It's easy to see why many people want to move into tech. But what's the best programming language to learn if you want to pursue tech jobs? Many recommend learning Python first. With a more readable syntax, it can be easier for new learners. Plus, Python prepares developers for careers in software development and data analysis.
+
+Before learning your first programming language, consider which languages best fit your strengths and career goals. And then try out a few different options to learn to code. Some people learn best from online classes or tutorials, while others prefer formal training programs.
+
+It Can Help You Understand Other Aspects of Tech
+Technology increasingly influences every area of life. And understanding programming languages can give you insight into other areas of tech.
+
+Studying a programming language may increase your understanding of how the tech sector operates. You'll be able to identify applications for tech skills and see the impact of coding in diverse fields. And you'll have a better understanding of the pros and cons of coding in different industries.
+
+In addition, your increasing tech literacy will make it easier to learn new technical skills. Many programmers know multiple languages and constantly refresh their knowledge. Staying on top of tech trends will keep your knowledge current.
+
+Your Way of Thinking Will Change
+Learning to code changes the way you think. Coding requires strong logical thinking abilities and the patience to solve problems.
+
+Programmers communicate commands to computers, and they often need to think creatively when coding. If a section of code fails, programmers need to identify and correct the problem. Coding also requires innovation. To achieve a particular result, you'll need to try several possibilities to reach your goal.
+
+Whether you use coding in your job or treat it as a hobby, learning a programming language will test your cognitive skills and shape how you approach problems.
