@@ -223,7 +223,7 @@ Programmers communicate commands to computers, and they often need to think crea
 
 Whether you use coding in your job or treat it as a hobby, learning a programming language will test your cognitive skills and shape how you approach problems.
 
-# DAY 5/100
+# DAY 6/100
 
 
 Many people learn coding because of their career development, or simply because of their interests, but the benefits are much more than that. Steve Jobs once said, “Everybody should learn to program a computer, because it teaches you how to think.” When you know how to think, you open up endless possibilities to your work and life. Whether you're a parent looking for kids coding courses, or you're a working adult who's trying to upskill yourself, check out 10 reasons why we should learn to code below.
