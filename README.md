@@ -227,7 +227,7 @@ Whether you use coding in your job or treat it as a hobby, learning a programmin
 
 *From :https://www.preface.ai/blog/why-coding-is-important/*
 
-# Many people learn coding because of their career development, or simply because of their interests, but the benefits are much more than that. Steve Jobs once said, “Everybody should learn to program a computer, because it teaches you how to think.” When you know how to think, you open up endless possibilities to your work and life. Whether you're a parent looking for kids coding courses, or you're a working adult who's trying to upskill yourself, check out 10 reasons why we should learn to code below. # 
+*Many people learn coding because of their career development, or simply because of their interests, but the benefits are much more than that. Steve Jobs once said, “Everybody should learn to program a computer, because it teaches you how to think.” When you know how to think, you open up endless possibilities to your work and life. Whether you're a parent looking for kids coding courses, or you're a working adult who's trying to upskill yourself, check out 10 reasons why we should learn to code below.*
 
 1. Coding Develops Logical and Computational Thinking
 Coding encourages the use of logical reasoning and algorithms to create programs. When tackling a new challenge, you must employ a logical approach to find a solution, thus exercising and enhancing your logical abilities.
