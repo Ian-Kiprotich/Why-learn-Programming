@@ -222,3 +222,43 @@ Learning to code changes the way you think. Coding requires strong logical think
 Programmers communicate commands to computers, and they often need to think creatively when coding. If a section of code fails, programmers need to identify and correct the problem. Coding also requires innovation. To achieve a particular result, you'll need to try several possibilities to reach your goal.
 
 Whether you use coding in your job or treat it as a hobby, learning a programming language will test your cognitive skills and shape how you approach problems.
+
+# DAY 5/100
+
+
+Many people learn coding because of their career development, or simply because of their interests, but the benefits are much more than that. Steve Jobs once said, “Everybody should learn to program a computer, because it teaches you how to think.” When you know how to think, you open up endless possibilities to your work and life. Whether you're a parent looking for kids coding courses, or you're a working adult who's trying to upskill yourself, check out 10 reasons why we should learn to code below.
+
+1. Coding Develops Logical and Computational Thinking
+Coding encourages the use of logical reasoning and algorithms to create programs. When tackling a new challenge, you must employ a logical approach to find a solution, thus exercising and enhancing your logical abilities.
+
+This process is a key part of 'Computational Thinking', an essential skill in today's digitised world. It's about breaking down complex issues, recognises patterns, and develops step-by-step solutions. In Preface School of Technology, we teach students to think critically, apply effective reasoning, and solve problems across various contexts, enhancing their analytical skills.
+
+This skill is not only crucial for coding but also beneficial in everyday life, promoting structured thinking and problem-solving. A huge part of Preface’s educational philosophy is about Computational Thinking, as we aim to equip children and adults with unique problem-solving skill sets that they can apply in their personal and professional lives in the future.
+
+2. Coding Improves Problem Solving Skills
+Coding teaches you how to think. During the coding process, you need to give a solution to an issue that involves intensive problem-solving skills. It trains your brain to think deeply, identify the troubles, and break things up, then put the pieces together with a solution. These kinds of troubleshooting skills help you become a smarter person personally and professionally and see a situation from a completely new perspective.
+
+3. Coding Fosters Creativity
+Someone might think coding is boring with standard formulas, but it can be fun and creative. There won’t be the same problems to be resolved every time, you will overcome different kinds of challenges that require new solutions. While working on coding projects, you can make use of your creativity to provide a tailored solution to an issue – and your innovative solution might somehow change the world.
+
+4. Coding Allows High Income Potential
+
+Programmers and developers are in high demand all over the world. Companies are willing to provide attractive packages to them. From the recent survey of SalaryExplorer, the median salary of a developer or programmer in Hong Kong is HK$33,800 per month, ranging from HK$15,600 to HK$53,800 per month while the report by Census and Statistics Department indicates the median monthly income for general HK labour force in December 2023 was only HK$19,800 per month.
+
+5. Coding Opens Up Job Opportunities
+Technology is a growing trend in the digital economy providing massive job opportunities. Programmers, software engineers, and prompt engineers, are in high demand across different industries. With coding as the fundamental skill, you open up career choices. It also makes your portfolio stand out from the others. Many companies might also outsource their coding-related works, thus, being a coding expert helps you earn freelance income, and offers career flexibility as a digital nomad.
+
+6. Coding Helps You Work Smartly And Efficiently
+Coding is not only useful for technical roles, it also helps in non-coding jobs. When you know how to code and apply Computational Thinking, you can automate the operational progress or apply the way of thinking in marketing campaigns. Even just knowing basic coding helps you communicate with technical colleagues effectively, thus enhancing the overall efficiency of the projects.
+
+7. Coding Take Your Career to New Heights
+Learning to code helps you accomplish innovative projects and make you a valuable asset to the company. With Computational Thinking, you can visualise and understand the risk and challenges from an engineer’s point of view, making you a great teammate or leader to work with. Coding skills also help you leverage data and logical thinking in decision making, thus achieving better performance.
+
+8. Coding Help You Understand How Technology Works
+Technology has become a part of our daily life. We rely on technologies in data analysis, finance, the health sector, education, and every single step of our daily lives. Learning to code helps you understand the world and solve the problems we encounter every day, from understanding errors in mobile devices to innovating new ideas that change the world.
+
+9. Coding Help You Create Your Own App or Open Own Business
+The most motivating thing in learning to code is to create something yourself. You can digitise your ideas, for instance, create an app that might get viral in the market. Or you can start your own business with technical knowledge, from an online shop to consultant agency, service providers, or mobile games company, you name it. In short, learning to code can be a way to make your dreams come true.
+
+10. Coding Empower Your Life
+Our world is full of technology, we use numerous software and apps every day. When you know how to build these things and understand their mechanism, you will feel more confident. Once you can solve the problem yourself, you do not need to wait for someone to help. You don’t need to be an expert to be self-sufficient, by knowing just a little can make a huge difference to your life. Learning to code can help your life in a way you can never imagine.
