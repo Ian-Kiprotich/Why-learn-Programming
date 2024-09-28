@@ -3,7 +3,9 @@
 # # DAY 1/100
 
 From :Othneildrew
+
 https://www.linkedin.com/in/othneildrew
+
 I started dabbling in code during March 2015, but not really committed until a year later in June. My main reason behind learning to program was to build a successful business out of a website that would help people learn to fly. So far (at the time of writing this) I have learned HTML, CSS, PHP, JavaScript, and many other frameworks like JQuery, Ajax, Laravel, etc.
 
 Here are a few reasons why it is good to learn programming:
