@@ -268,6 +268,9 @@ The most motivating thing in learning to code is to create something yourself. Y
 Our world is full of technology, we use numerous software and apps every day. When you know how to build these things and understand their mechanism, you will feel more confident. Once you can solve the problem yourself, you do not need to wait for someone to help. You don’t need to be an expert to be self-sufficient, by knowing just a little can make a huge difference to your life. Learning to code can help your life in a way you can never imagine.
 
 # DAY 7/100
+
+From: (https://potomac.edu/why-learn-programming/)
+
 The accelerating technological developments characterize the 21st century. It is all around us, from the alarm clock on our phones that wakes us up in the morning, to the coffee machines that can brew our coffee with just a push of a button.
 
 Behind most everything we see on the internet—every word, picture, chart, layout, etc.—there is someone who programmed it to look as such to us. So why should you become a programmer? Here’s a list of some of the reasons.
