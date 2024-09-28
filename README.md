@@ -1,4 +1,5 @@
 # Why-learn-Programming
+
 # # DAY 1/100
 
 From :Othneildrew
@@ -34,6 +35,7 @@ Repetitive work tasks can take many hours of tedious work to complete. However, 
 Programming with R or Python allows users to incorporate advanced statistical analysis into analytical or research tasks. 
 With programming, it is possible to build or maintain large databases. Programmers use languages such as SQL or PHP to use and maintain extensive databases.
 Those who work in the field of data science rely on programming to perform tasks such as developing models that can make predictions based on data insights.
+
 # DAY 3/100
 
 **17 reasons why you should learn programming**
@@ -101,6 +103,7 @@ If you're a freelancer designing a website for someone else's business, you migh
 
 17. Join a community
 When you learn to program, you can communicate with other people who share your skills. You can join professional organizations and attend conferences or local groups to work on projects together. There are also many online communities for people interested in programming so that you can communicate with professionals from many different backgrounds, skill levels and cultures about your shared interest.
+
 # DAY 4/100
 
 **Top 6 reasons you should learn to code in 2021:**
@@ -263,3 +266,48 @@ The most motivating thing in learning to code is to create something yourself. Y
 
 10. Coding Empower Your Life
 Our world is full of technology, we use numerous software and apps every day. When you know how to build these things and understand their mechanism, you will feel more confident. Once you can solve the problem yourself, you do not need to wait for someone to help. You don’t need to be an expert to be self-sufficient, by knowing just a little can make a huge difference to your life. Learning to code can help your life in a way you can never imagine.
+
+# DAY 7/100
+The accelerating technological developments characterize the 21st century. It is all around us, from the alarm clock on our phones that wakes us up in the morning, to the coffee machines that can brew our coffee with just a push of a button.
+
+Behind most everything we see on the internet—every word, picture, chart, layout, etc.—there is someone who programmed it to look as such to us. So why should you become a programmer? Here’s a list of some of the reasons.
+>
+1. It Guarantees You a Job
+We’re living in the era of technology, and technological growth is nowhere near stopping. As the use of technological devices is growing every year, there will always be a high demand for programmers. The Bureau of Labor Statistics stated that within this decade, computer programming jobs would mostly be available to those outside the United States. This due to the fact that companies are considering employing people all around the world since they would pay them lower wages.
+
+However, jobs such as software developing, web developing, computer system analysts, and others show a good career outlook for the next 10 years. Their estimated growth is from 9% and up to 21% for software development jobs.
+>
+2. No Need for a Four-Year Degree
+While one of the paths to becoming a programmer is to earn a computer science degree, you can still become one without a degree. Many coding jobs don’t require a computer science or an IT degree; instead, they’re interested in your coding skills and coding languages you know. This means that even though a degree would be useful and open several doors for you, it isn’t a must.
+
+However, there are other options other than a degree, that could potentially help you land a job. For instance, if you were to get a software development or cybersecurity diploma, it would certainly look good in the eyes of the hiring manager. The same goes for a certificate too; if your CV has relevant certificate programs in it, such as network security management for example, that along with your skills will leave a good impression.
+>
+3.You Get to Work From Home
+work-from-home
+Since the job only requires a computer with an internet connection, employees often have the opportunity to work remotely. That being said, that depends on the company’s policy, but many offer such an option. Moreover, if you work as a freelancer, your job will always be done remotely.
+
+This advantage makes programming a highly sought-after job for people who want to balance their work and family life and feel like commuting wastes their precious time they could have spent differently. It also allows them to apply for jobs across the country without the need to relocate and worry about the distance of the office.
+>
+4. You Can Create Anything You Want
+Computer programming, like no other job, gives you the opportunity to digitize your ideas. This idea can include an app you wanted to create and thought that would go viral once you put in the market. However, creating an app, it’s not an easy task as it requires effort, time, and money. While in other scenarios, you would pay a developer to put to life your plans and ideas, being a programmer yourself, you would spare your money and get to develop the app exactly how you want it. Especially since,  let’s be honest, no one can implement your idea exactly how you want it to be.
+>
+5. High Income Potential
+Money can be motivation in most jobs and the case with programming is no different. Most jobs you can get with programming skills tend to have higher than average salaries. While the salary of a programmer depends on the state and the type of job, the median salary of a computer programmer is $84,280, while a software developer’s median salary is $103,620.
+>
+6. You Understand How Software Works
+When we use the computer, we interact with it through mouse and keyboard, but we don’t really stop and think about the program running in the background. Programming will get you familiar with the software, programs, devices, and websites and will help you understand them. Due to this familiarization, you will grasp and adopt new technology tools much more quickly.
+>
+7. It Teaches You Persistence
+Learning computer programming teaches you to see the problems in the light of solutions. For every problem you may face, you start to brainstorm ideas on how to solve it. Fruitful results that come out of brainstorming and fixing problems will give you a positive outlook, and toughen you up to act on the problem however hard it may be. You become determined to find a way to work out a solution, becoming this way a solution-driven person.
+>
+8. You Learn To Combine Technical Skills and Creativity
+reasons-you-should-learn-programming
+Not all industries will give you the opportunity to use both your technical and creative skills as programming will. This is possible due to the nature of the job. It focuses on identifying issues and resolving them. However, there won’t always be the same problems to solve, that’s why you’ll get to solve them while also finding new solutions each time. This makes programming a very challenging and exciting career.
+>
+9. You Develop Problem Solving Skills
+In the world of programming, it is often said that coding is all about solving problems, and computer programs should solve problems for us. Learning programming is more or less coding and determining how to tackle the issues that arise during coding and finding solutions for them. The more you get to solve these problems, the more practical it becomes. You might even start applying this problem-solving mindset in different aspects of your professional life and not only while coding.
+>
+10. Open Your Own Business
+Becoming self-employed is the path that many programmers eventually chose. Knowing how to code allows you to look into opening a business of your own. This could be an online shop, having your own website designing company, building mobile applications, offering online coding courses and tutoring, and many more. The opportunities are endless. What makes it even better is that the demand for these kinds of businesses is also high.
+
+Programming is a skill that comes with numerous benefits. Some of the advantages that come with knowing code are a guaranteed job, getting to create interesting applications, developing problem-solving skills, and sometimes even the opportunity to work from home. We hope we convinced you to start learning to code. Happy coding!
