@@ -1,6 +1,6 @@
 # Why-learn-Programming
 
-# # DAY 1/100
+# DAY 1/100
 
 From :Othneildrew
 
@@ -316,3 +316,14 @@ In the world of programming, it is often said that coding is all about solving p
 Becoming self-employed is the path that many programmers eventually chose. Knowing how to code allows you to look into opening a business of your own. This could be an online shop, having your own website designing company, building mobile applications, offering online coding courses and tutoring, and many more. The opportunities are endless. What makes it even better is that the demand for these kinds of businesses is also high.
 
 Programming is a skill that comes with numerous benefits. Some of the advantages that come with knowing code are a guaranteed job, getting to create interesting applications, developing problem-solving skills, and sometimes even the opportunity to work from home. We hope we convinced you to start learning to code. Happy coding!
+
+# Day 8/100
+
+In the modern digital era, the terms “Code” and “Coding” have become ubiquitous. From tech to startups, education to entertainment, coding is a fundamental skill driving innovation and powering the digital world. But what exactly is code, and What is code entail? Let’s dive in and explore these concepts
+
+In our real life, to communicate with each other we use different languages such as English, Hindi and Marathi. Similarly, to communicate with computers we use a Binary language/ Binary Code( 0s and 1s) because computers understand 0’s as ‘off’ and 1’s as ‘on’. We can also say that computers use electrical signals, 0s low voltage and 1s high voltage.
+
+Code is basically a set of instructions written in a programming language that computers can understand and execute accordingly. It serves as a communication bridge between humans and machines, allowing us to directly access the action of a computer to perform a particular or specific task and solve problems.
+
+
+Code can be written in various programming languages such as C, Java, Python and JavaScript which follows a particular syntax, structure and methods that ensures clarity and functionality. By writing a code, developers can manipulate the data, control flow, control hardware and build software that ranges from simple to complex systems, ultimately transforming abstract ideas into digital solutions.
