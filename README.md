@@ -331,9 +331,9 @@ Programming is a skill that comes with numerous benefits. Some of the advantages
 
 # Day 9/100
 
-* What is Coding? *
-  
-# Coding refers to the process of writing instructions for a computer to perform a specific task. It involves using a programming language to create a set of commands that a computer can understand and execute. The goal of coding is to design and implement algorithms, which are step-by-step procedures or sets of rules, to solve a particular problem or achieve a desired outcome.
+* What is Coding?
+  From : https://www.geeksforgeeks.org/why-should-i-learn-coding/
+Coding refers to the process of writing instructions for a computer to perform a specific task. It involves using a programming language to create a set of commands that a computer can understand and execute. The goal of coding is to design and implement algorithms, which are step-by-step procedures or sets of rules, to solve a particular problem or achieve a desired outcome.
 
 7 Reasons Why You Must Learn Coding
 A lot of people before entering the programming field are curious to know how things work behind the scene? How within a few seconds Google give us a search result for whatever we are looking for? How we are able to connect to someone on Facebook around this world? How does Google Maps really work to give us direction anywhere in this world? All the above reasons inspire a non-programmer to choose this field. Today we all are dependent on technology in our daily life, for entertainment, for communication, and for everything but very few people know how to read and write code. If you are already coding for years, you will be able to apply this skill beyond your computers. We are surrounded by a lot of problems and coding has given us a lot of solutions in the real world. It doesn’t matter if you are a non-programmer, beginner, or experienced person, there are multiple reasons you should learn to code. 
@@ -345,9 +345,6 @@ A lot of people before entering the programming field are curious to know how th
 
 1. Attractive Salary and Multiple Career Opportunities
 Technology is vast and there are plenty of job opportunities available if you know how to code. Programmers are high in demand all over the world. You can become a freelancer and work freely, you can work for some companies, you can work on your own side projects or you can also use your coding skill for your own startup. The salary of programmers is also attractive because it requires critical thinking and situation analysis. People who are masters in programming work for a few hours but earn more also they are more flexible in their daily lives to do their job. Below is the estimated salary of computer programmers in India. 
-
-aicte data
-Image Source: Glassdoor
 
 2. Develop Problem-Solving and Logical Skills
 Problem-solving skill is the heart of programming and learning programming is about breaking up problems into smaller chunks, using your own logic and algorithms to create a program, and then giving a solution for that. Coding forces your brain to think about a problem deeply, organize your thoughts for the same, apply some logic, and then provide a solution. Every time you face a new challenge, you need to use your brain, you may have to make your own rule and you need to follow a logical approach. 
