@@ -319,11 +319,59 @@ Programming is a skill that comes with numerous benefits. Some of the advantages
 
 # Day 8/100
 
-In the modern digital era, the terms “Code” and “Coding” have become ubiquitous. From tech to startups, education to entertainment, coding is a fundamental skill driving innovation and powering the digital world. But what exactly is code, and What is code entail? Let’s dive in and explore these concepts
+> In the modern digital era, the terms “Code” and “Coding” have become ubiquitous. From tech to startups, education to entertainment, coding is a fundamental skill driving innovation and powering the digital world. But what exactly is code, and What is code entail? Let’s dive in and explore these concepts
 
-In our real life, to communicate with each other we use different languages such as English, Hindi and Marathi. Similarly, to communicate with computers we use a Binary language/ Binary Code( 0s and 1s) because computers understand 0’s as ‘off’ and 1’s as ‘on’. We can also say that computers use electrical signals, 0s low voltage and 1s high voltage.
+>> In our real life, to communicate with each other we use different languages such as English, Hindi and Marathi. Similarly, to communicate with computers we use a Binary language/ Binary Code( 0s and 1s) because computers understand 0’s as ‘off’ and 1’s as ‘on’. We can also say that computers use electrical signals, 0s low voltage and 1s high voltage.
 
-Code is basically a set of instructions written in a programming language that computers can understand and execute accordingly. It serves as a communication bridge between humans and machines, allowing us to directly access the action of a computer to perform a particular or specific task and solve problems.
+>>> Code is basically a set of instructions written in a programming language that computers can understand and execute accordingly. It serves as a communication bridge between humans and machines, allowing us to directly access the action of a computer to perform a particular or specific task and solve problems.
 
 
-Code can be written in various programming languages such as C, Java, Python and JavaScript which follows a particular syntax, structure and methods that ensures clarity and functionality. By writing a code, developers can manipulate the data, control flow, control hardware and build software that ranges from simple to complex systems, ultimately transforming abstract ideas into digital solutions.
+>>>> Code can be written in various programming languages such as C, Java, Python and JavaScript which follows a particular syntax, structure and methods that ensures clarity and functionality. By writing a code, developers can manipulate the data, control flow, control hardware and build software that ranges from simple to complex systems, ultimately transforming abstract ideas into digital solutions.
+
+
+# Day 9/100
+
+* What is Coding? *
+  
+# Coding refers to the process of writing instructions for a computer to perform a specific task. It involves using a programming language to create a set of commands that a computer can understand and execute. The goal of coding is to design and implement algorithms, which are step-by-step procedures or sets of rules, to solve a particular problem or achieve a desired outcome.
+
+7 Reasons Why You Must Learn Coding
+A lot of people before entering the programming field are curious to know how things work behind the scene? How within a few seconds Google give us a search result for whatever we are looking for? How we are able to connect to someone on Facebook around this world? How does Google Maps really work to give us direction anywhere in this world? All the above reasons inspire a non-programmer to choose this field. Today we all are dependent on technology in our daily life, for entertainment, for communication, and for everything but very few people know how to read and write code. If you are already coding for years, you will be able to apply this skill beyond your computers. We are surrounded by a lot of problems and coding has given us a lot of solutions in the real world. It doesn’t matter if you are a non-programmer, beginner, or experienced person, there are multiple reasons you should learn to code. 
+
+
+“Everybody in this country should learn how to program a computer… because it teaches you how to think” 
+–Steve Jobs
+
+
+1. Attractive Salary and Multiple Career Opportunities
+Technology is vast and there are plenty of job opportunities available if you know how to code. Programmers are high in demand all over the world. You can become a freelancer and work freely, you can work for some companies, you can work on your own side projects or you can also use your coding skill for your own startup. The salary of programmers is also attractive because it requires critical thinking and situation analysis. People who are masters in programming work for a few hours but earn more also they are more flexible in their daily lives to do their job. Below is the estimated salary of computer programmers in India. 
+
+aicte data
+Image Source: Glassdoor
+
+2. Develop Problem-Solving and Logical Skills
+Problem-solving skill is the heart of programming and learning programming is about breaking up problems into smaller chunks, using your own logic and algorithms to create a program, and then giving a solution for that. Coding forces your brain to think about a problem deeply, organize your thoughts for the same, apply some logic, and then provide a solution. Every time you face a new challenge, you need to use your brain, you may have to make your own rule and you need to follow a logical approach. 
+
+So learning and doing programming is an exercise for your brain that eventually improves your problem-solving and logical ability. Learning to code will teach you to understand this world, to solve the problems we encounter every day in our life and that is the best thing you can do to change this world. You help people by using computer technologies and you earn respect for that too. You eventually become a smarter person when you see the whole picture of the real-world problem and you solve that using your logical approach. 
+
+3. Develop Interpersonal Skills
+Coding not only improve your technical skill, but it also helps in improving your soft skills. Most of the time when you are working in a team you need to collaborate with other co-workers, you may have to discuss the project with them, you need to interact with your manager and all these things eventually develop your soft skill which not only helps in building a good relationship in your professional life but also in personal life. Magic happens in coding when you collaborate with other smart people and build something together that actually something meaningful for people in this world. 
+
+4. Technologies Are Ruling the World
+Technology is embedded everywhere and there is no doubt that it has become a part of our daily life whether it’s entertainment or we have to communicate with someone or we have to go somewhere. We are relying on technologies and there are thousands of industries dependent on computer programs to run their business operations. Scientists use computers to analyze and see the results of their experiments and for their own research. It is used in data analysis, finance, food industry, education, customer service, health sector from creating an app or website useful for others to drive a car. It’s strange that from morning to evening we are relying on technologies but very few people know how to code. 
+
+5. Coding is Creativity
+Coding is always considered as all about something computational, mathematical, frustrating, and boring but there is a creative side of coding as well. When programmers see something is imperfect in this world then it becomes their job to analyze the problem and to give a visionary solution. They see a complete picture of a problem people encounter and they use their creative logical approach to find out the solution for that. Just like painters, a clever programmer picks a suitable programming language, design patterns, and patterns of logical expression to implement the solution. 
+
+6. Understanding of Both Sides of the Equation in Business
+In any kind of industry or business, it always becomes difficult for a non-programmer or departments who have to do nothing with coding to understand the complete process that requires to get the job done. A misunderstanding is always developed between engineers and non-programmers when it comes to finding a solution for a specific problem. When you have the coding skill, you can visualize or at least understand the risk, challenges, and time from an engineer’s point of view. It doesn’t matter if you are a manager, team leader, or marketer in your company if you know about coding, you understand both sides of the table. You are able to tackle the problems smoothly and that’s very important to run a business successfully. 
+
+7. Empowering and Life-Changing Experience
+Programming always gives you a new challenge where you have to take a risk every time and that teaches you how to take the risk in your life too. The world is full of software, apps, and website and when you build these things on your own you feel more confident and powerful. When a programmer is able to solve a problem that had no solution before it becomes a life-changing experience for them. 
+
+
+Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn. 
+– Stephen Hawking 
+
+
+Overall, learning to code can be a valuable skill that opens up numerous opportunities, enhances your problem-solving abilities, and equips you with the tools to navigate an increasingly technology-driven world. Whether you pursue a career in programming or use coding skills as a supplement to your existing expertise, the benefits are substantial.
