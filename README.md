@@ -464,8 +464,8 @@ Coding in different applications across every industry means different design ch
 >>>>>>> The responsibility
 When working on a project for a client, company, or some end-user, there is going to be a level of responsibility that comes with coding. You are responsible for that code doing what it is supposed to do, which can fill a need that some people might have. This responsibility could also come from some side-effect of the coding, like the responsibility of supporting a family.
 
->>>>>>> The end result
+>>>>>>>> The end result
 Maybe your purpose is driven by the need to complete a project. Or maybe it is the need for the compensation at the end. For this, coding might not always be enjoyable in the moment, but for the satisfaction of the outcome.
 
->>>>>>>> The praise
+>>>>>>>>>> The praise
 Some might have the personality where they need to have praise for the work they perform. This could be compensation in a job, a number of “likes” for your github project, or some other form of praise.
