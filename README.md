@@ -483,8 +483,6 @@ Frmo :  https://www.reddit.com/
 
 https://www.reddit.com/r/learnprogramming/comments/hdy6k1/why_should_everyone_learn_programming/?rdt=51437
 
-# Day 14 /100
-
 *Why should everyone learn programming?*
 
 > Quite often I hear or read that everyone should learn how to code. That coding skills will benefit us in the future and even learning the basics will improve our lifes.
@@ -494,6 +492,10 @@ https://www.reddit.com/r/learnprogramming/comments/hdy6k1/why_should_everyone_le
 >>> For example, I had a basics of programming in school but writing Hello world, drawing a moving figure or making a calculator hasn't really helped me with anything yet.
 
 >>>> I often wonder why is programming being popularised so much and why they try to teach it at schools and the earlier, the better. I feel like most of the subjects taught at school usually could be applied to everyday life or at least improved our understanding of the world around us, the processes, history, economy, etc., but I feel that coding might be too specific.
+
+
+
+# Day 14 /100
 
 > How can computer programming or coding help the world?
 It’s challenging to think of a way computer programming wouldn’t help the world. Nearly the entire globe is either connected or readily seeking ways to increase connections. Computer programming offers many different benefits for the world, such as:
