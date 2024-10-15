@@ -474,3 +474,18 @@ Some might have the personality where they need to have praise for the work they
  # Day 12/100
 12th October  2024
 Analytics 
+
+
+ # Day 13/100
+
+Frmo :  https://www.reddit.com/
+https://www.reddit.com/r/learnprogramming/comments/hdy6k1/why_should_everyone_learn_programming/?rdt=51437
+*Why should everyone learn programming?*
+
+> Quite often I hear or read that everyone should learn how to code. That coding skills will benefit us in the future and even learning the basics will improve our lifes.
+
+>> I just don't understand how coding skills could directly benefit an average person if the person doesn't directly work in a tech field or similar.
+
+>>> For example, I had a basics of programming in school but writing Hello world, drawing a moving figure or making a calculator hasn't really helped me with anything yet.
+
+>>>> I often wonder why is programming being popularised so much and why they try to teach it at schools and the earlier, the better. I feel like most of the subjects taught at school usually could be applied to everyday life or at least improved our understanding of the world around us, the processes, history, economy, etc., but I feel that coding might be too specific.
