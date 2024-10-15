@@ -479,7 +479,12 @@ Analytics
  # Day 13/100
 
 Frmo :  https://www.reddit.com/
+
+
 https://www.reddit.com/r/learnprogramming/comments/hdy6k1/why_should_everyone_learn_programming/?rdt=51437
+
+# Day 14 /100
+
 *Why should everyone learn programming?*
 
 > Quite often I hear or read that everyone should learn how to code. That coding skills will benefit us in the future and even learning the basics will improve our lifes.
@@ -489,3 +494,20 @@ https://www.reddit.com/r/learnprogramming/comments/hdy6k1/why_should_everyone_le
 >>> For example, I had a basics of programming in school but writing Hello world, drawing a moving figure or making a calculator hasn't really helped me with anything yet.
 
 >>>> I often wonder why is programming being popularised so much and why they try to teach it at schools and the earlier, the better. I feel like most of the subjects taught at school usually could be applied to everyday life or at least improved our understanding of the world around us, the processes, history, economy, etc., but I feel that coding might be too specific.
+
+> How can computer programming or coding help the world?
+It’s challenging to think of a way computer programming wouldn’t help the world. Nearly the entire globe is either connected or readily seeking ways to increase connections. Computer programming offers many different benefits for the world, such as:
+
+>> Research and development: Research relies on data, and machines can help researchers aggregate, analyze, synthesize, and visualize data in ways human beings have not been capable of before. Programming skills allow people to build the vehicles that connect machines and humans.
+
+
+>>> Government operations: Coders are responsible for large portions of the government’s digital transformation. New online portals allow citizens, organizations, and businesses to access government services more efficiently.
+
+>>>> Web development and design: Designers leverage computer programming skills to build online experiences in fields like eCommerce or entertainment. These sites provide access to the information and services held within the digital world and rely on user research to create experiences.
+
+>>>>> Marketing and business operations: Computer programmers can also help businesses manage operations by building apps and tools for internal use or customer-facing solutions.
+
+>>>>>> Data science and artificial intelligence: These exploding fields require software engineers to build environments suitable for processing and visualizing the data necessary to train models for data science and machine learning projects.
+
+
+>>>>>>>>Cybersecurity: Developers also build the solutions we need to keep our online interactions safe from threat actors. Mastery of different programming languages can help students launch their careers in this in-demand information technology sector.
