@@ -527,3 +527,9 @@ It’s challenging to think of a way computer programming wouldn’t help the wo
 >>>> Users interact with websites and apps with the help of these coded instructions. The code itself does not show up on the screen. Instead, people see the words and images a developer or programmer asks the computer to display.
 
 >>>>> Coding tells a machine which actions to perform and how to complete tasks. Programming languages provide the rules for building websites, apps, and other computer-based technologies. Each programming language helps humans accurately communicate with machines.
+
+
+# DAY 16/100
+
+
+I CODE
