@@ -513,10 +513,13 @@ It’s challenging to think of a way computer programming wouldn’t help the wo
 
 
 >>>>>>>> Cybersecurity: Developers also build the solutions we need to keep our online interactions safe from threat actors. Mastery of different programming languages can help students launch their careers in this in-demand information technology sector.
+
+
+
+# DAY 15/100
+
 How Does Coding Work?
 Computer programming languages, developed through a series of numerical or alphabetic codes, instruct machines to complete specific actions. Computer coding functions much like a manual.
-
-
 
 A programmer or developer writes instructions describing the information and tasks needed to create a visual or to perform a task. Computers scan extensive coded manuals very quickly, executing the tasks that create and run a successful website or application. Displaying an image or section of text, changing font styles, and opening emails all require instructions included in the coded manual.
 
