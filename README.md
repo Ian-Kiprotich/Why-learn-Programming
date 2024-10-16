@@ -512,4 +512,14 @@ It’s challenging to think of a way computer programming wouldn’t help the wo
 >>>>>> Data science and artificial intelligence: These exploding fields require software engineers to build environments suitable for processing and visualizing the data necessary to train models for data science and machine learning projects.
 
 
->>>>>>>>Cybersecurity: Developers also build the solutions we need to keep our online interactions safe from threat actors. Mastery of different programming languages can help students launch their careers in this in-demand information technology sector.
+>>>>>>>> Cybersecurity: Developers also build the solutions we need to keep our online interactions safe from threat actors. Mastery of different programming languages can help students launch their careers in this in-demand information technology sector.
+How Does Coding Work?
+Computer programming languages, developed through a series of numerical or alphabetic codes, instruct machines to complete specific actions. Computer coding functions much like a manual.
+
+
+
+A programmer or developer writes instructions describing the information and tasks needed to create a visual or to perform a task. Computers scan extensive coded manuals very quickly, executing the tasks that create and run a successful website or application. Displaying an image or section of text, changing font styles, and opening emails all require instructions included in the coded manual.
+
+Users interact with websites and apps with the help of these coded instructions. The code itself does not show up on the screen. Instead, people see the words and images a developer or programmer asks the computer to display.
+
+Coding tells a machine which actions to perform and how to complete tasks. Programming languages provide the rules for building websites, apps, and other computer-based technologies. Each programming language helps humans accurately communicate with machines.
