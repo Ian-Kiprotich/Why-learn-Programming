@@ -531,5 +531,28 @@ It’s challenging to think of a way computer programming wouldn’t help the wo
 
 # DAY 16/100
 
+***From sources across the web***
 
-I CODE
+ Why learn to code?
+
+> Coding improves problem solving skills
+>> Problem solving and creativity
+>>> Coding improves computational thinking
+>>>> Coding allows high income potential
+>>>>> Coding fosters creativity
+>>>>>> Career flexibility
+Career Opportunities
+Coding skills will enhance your resume
+Higher salary
+Increase career opportunities
+Work from home
+Coding improves interpersonal skills
+Coding is fun
+Enhance your creativity
+Anyone can learn to code
+Being entrepreneur
+Coding enables entrepreneurship
+Coding encourages persistence
+Develop interpersonal skills
+Develop logical reasoning skills
+Expand your knowledge
