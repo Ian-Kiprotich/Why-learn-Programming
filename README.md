@@ -14,6 +14,8 @@ Here are a few reasons why it is good to learn programming:
 >>It makes you more resourceful
 >>>It's an in-demand skill
 >>>>You develop new habits and approaches for life
+
+
 **Firstly**, programming teaches you how to solve complex problems. Most people are problem-oriented, they only think about the problem at hand. However, programming gives you the ability to look at things from a new perspective. It allows you to break down anything into simple steps to create a whole "program" that accomplishes your goal (like an algorithm). Want to make a million dollars? Great! Start with the end in mind (the $) and develop blocks of actions that will help you get there.
 
 **Secondly**, you'll become much more resourceful. Let's face it, you're not going understand new technology when you're a novice. Most of your time will be spent reading documentation/instructions on the coding languages you're programming trying to resolve some type of error. Programming is all about solving problems. You'll be doing a lot of testing, reading and debugging. This is also great because you'll learn that there are usually more than 5 ways to solve a single problem you're experiencing. Which means you'll always have the opportunity to learn.
