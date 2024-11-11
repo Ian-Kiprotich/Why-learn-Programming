@@ -2,7 +2,7 @@
 
 # DAY 1/100.
 
-From :Othneildrew
+From :Othneildrew.
 
 https://www.linkedin.com/in/othneildrew
 
